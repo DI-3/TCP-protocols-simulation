@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <getopt.h>
 #include <ctype.h>
+#include <string.h>
 /* ******************************************************************
  ALTERNATING BIT AND GO-BACK-N NETWORK EMULATOR: VERSION 1.1  J.F.Kurose
 
